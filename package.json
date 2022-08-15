@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/dale-french/react-native-cards#readme",
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
